@@ -2,4 +2,4 @@
        Competitive Coding
 
 
-### This repository contains the problems that I solve on various websites.
+### This repository contains solutions of all problems that I solve on various CP websites/platforms.
