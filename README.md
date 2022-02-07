@@ -1,5 +1,5 @@
 #  CP_Solutions
-      ## Competitive Coding
+       Competitive Coding
 
 
-### *This repository contains the problems that I solve on various websites.*
+### This repository contains the problems that I solve on various websites.
